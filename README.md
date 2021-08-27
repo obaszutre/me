@@ -1,4 +1,4 @@
-git clone https://github/adil090x/termux-style.git
+git clone https://github/README.md/termux-style.git
 
 
 
